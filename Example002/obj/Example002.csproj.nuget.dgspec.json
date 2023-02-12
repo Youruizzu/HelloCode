@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\1B-C#\\Example002\\Example002.csproj": {}
+    "D:\\1B-C#\\Lesson1\\Example002\\Example002.csproj": {}
   },
   "projects": {
-    "D:\\1B-C#\\Example002\\Example002.csproj": {
+    "D:\\1B-C#\\Lesson1\\Example002\\Example002.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1B-C#\\Example002\\Example002.csproj",
+        "projectUniqueName": "D:\\1B-C#\\Lesson1\\Example002\\Example002.csproj",
         "projectName": "Example002",
-        "projectPath": "D:\\1B-C#\\Example002\\Example002.csproj",
+        "projectPath": "D:\\1B-C#\\Lesson1\\Example002\\Example002.csproj",
         "packagesPath": "C:\\Users\\Heibao\\.nuget\\packages\\",
-        "outputPath": "D:\\1B-C#\\Example002\\obj\\",
+        "outputPath": "D:\\1B-C#\\Lesson1\\Example002\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Heibao\\AppData\\Roaming\\NuGet\\NuGet.Config",
